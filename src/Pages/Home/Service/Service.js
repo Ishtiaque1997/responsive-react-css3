@@ -1,9 +1,10 @@
 import React from 'react';
+import './Service.css'
 
 const Service = (props) => {
  const{name,img,price,description}=props.service;
  return (
-  <div>
+  <div className='service'>
    <h2>This is a service</h2>
    <img src={img} alt="" />
    <h3>{name}</h3>
