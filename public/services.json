@@ -1,0 +1,47 @@
+[
+{
+  "id":1,
+  "name":"Diagnosis",
+  "price":300,
+  "description":"With the Internet taking over and influencing a large part of our lives, especially now with the work from home and social distancing situations in place to tackle coronavirus, more people are looking to ways to earn money online to increase their money",
+  "img":"https://i.postimg.cc/GtJDvDKM/1.jpg"
+},
+{
+  "id":2,
+  "name":"Dioptre",
+  "price":500,
+  "description":"With the Internet taking over and influencing a large part of our lives, especially now with the work from home and social distancing situations in place to tackle coronavirus, more people are looking to ways to earn money online to increase their money",
+  "img":"https://i.postimg.cc/Z5qNyCdc/2.jpg"
+
+},
+{
+  "id":3,
+  "name":"Dangle",
+  "price":1000,
+  "description":"With the Internet taking over and influencing a large part of our lives, especially now with the work from home and social distancing situations in place to tackle coronavirus, more people are looking to ways to earn money online to increase their money",
+  "img":"https://i.postimg.cc/zXxb58cR/3.jpg"
+},
+{
+ "id":4,
+  "name":"Dazzling",
+  "price":1200,
+  "description":"With the Internet taking over and influencing a large part of our lives, especially now with the work from home and social distancing situations in place to tackle coronavirus, more people are looking to ways to earn money online to increase their money",
+  "img":"https://i.postimg.cc/7hYHQTDt/4.jpg"
+},
+{
+ "id":5,
+  "name":"Diligence",
+  "price":2300,
+  "description":"With the Internet taking over and influencing a large part of our lives, especially now with the work from home and social distancing situations in place to tackle coronavirus, more people are looking to ways to earn money online to increase their money",
+  "img":"https://i.postimg.cc/7ZTxc484/5.jpg"
+},
+{
+  "id":6,
+  "name":"Decorum",
+  "price":300,
+  "description":"With the Internet taking over and influencing a large part of our lives, especially now with the work from home and social distancing situations in place to tackle coronavirus, more people are looking to ways to earn money online to increase their money",
+  "img":"https://i.postimg.cc/CKGwh4x6/6.jpg"
+}
+
+
+]
