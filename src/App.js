@@ -11,12 +11,14 @@ import {
 import Booking from './Pages/Booking/Booking/Booking';
 import Login from './Pages/Login/Login/Login';
 import Header from './Pages/Shared/Header/Header';
+import AuthProvider from './context/AuthProvider';
 
 function App() {
   return (
     <div className="App">
      
-     <Router>
+     <AuthProvider>
+       <Router>
        <Header></Header>
        <Switch>
          <Route exact path='/'>
@@ -37,6 +39,7 @@ function App() {
          </Route>
        </Switch>
      </Router>
+     </AuthProvider>
     </div>
   );
 }
